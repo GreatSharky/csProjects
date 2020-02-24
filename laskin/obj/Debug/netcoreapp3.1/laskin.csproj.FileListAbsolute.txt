@@ -1,0 +1,11 @@
+C:\Projects\csProjects\laskin\bin\Debug\netcoreapp3.1\laskin.exe
+C:\Projects\csProjects\laskin\bin\Debug\netcoreapp3.1\laskin.deps.json
+C:\Projects\csProjects\laskin\bin\Debug\netcoreapp3.1\laskin.runtimeconfig.json
+C:\Projects\csProjects\laskin\bin\Debug\netcoreapp3.1\laskin.runtimeconfig.dev.json
+C:\Projects\csProjects\laskin\bin\Debug\netcoreapp3.1\laskin.dll
+C:\Projects\csProjects\laskin\bin\Debug\netcoreapp3.1\laskin.pdb
+C:\Projects\csProjects\laskin\obj\Debug\netcoreapp3.1\laskin.csprojAssemblyReference.cache
+C:\Projects\csProjects\laskin\obj\Debug\netcoreapp3.1\laskin.AssemblyInfoInputs.cache
+C:\Projects\csProjects\laskin\obj\Debug\netcoreapp3.1\laskin.AssemblyInfo.cs
+C:\Projects\csProjects\laskin\obj\Debug\netcoreapp3.1\laskin.dll
+C:\Projects\csProjects\laskin\obj\Debug\netcoreapp3.1\laskin.pdb

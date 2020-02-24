@@ -1,0 +1,11 @@
+C:\Projects\csProjects\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Projects\csProjects\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Projects\csProjects\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Projects\csProjects\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Projects\csProjects\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Projects\csProjects\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Projects\csProjects\While\obj\Debug\netcoreapp3.1\While.csprojAssemblyReference.cache
+C:\Projects\csProjects\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Projects\csProjects\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Projects\csProjects\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Projects\csProjects\While\obj\Debug\netcoreapp3.1\While.pdb
