@@ -1,0 +1,11 @@
+C:\Projects\csProjects\Functions\obj\Debug\netcoreapp3.1\Functions.csprojAssemblyReference.cache
+C:\Projects\csProjects\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+C:\Projects\csProjects\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+C:\Projects\csProjects\Functions\bin\Debug\netcoreapp3.1\Functions.exe
+C:\Projects\csProjects\Functions\bin\Debug\netcoreapp3.1\Functions.deps.json
+C:\Projects\csProjects\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+C:\Projects\csProjects\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+C:\Projects\csProjects\Functions\bin\Debug\netcoreapp3.1\Functions.dll
+C:\Projects\csProjects\Functions\bin\Debug\netcoreapp3.1\Functions.pdb
+C:\Projects\csProjects\Functions\obj\Debug\netcoreapp3.1\Functions.dll
+C:\Projects\csProjects\Functions\obj\Debug\netcoreapp3.1\Functions.pdb
