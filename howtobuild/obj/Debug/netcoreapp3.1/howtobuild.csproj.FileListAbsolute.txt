@@ -1,0 +1,11 @@
+C:\Projects\csProjects\howtobuild\bin\Debug\netcoreapp3.1\howtobuild.exe
+C:\Projects\csProjects\howtobuild\bin\Debug\netcoreapp3.1\howtobuild.deps.json
+C:\Projects\csProjects\howtobuild\bin\Debug\netcoreapp3.1\howtobuild.runtimeconfig.json
+C:\Projects\csProjects\howtobuild\bin\Debug\netcoreapp3.1\howtobuild.runtimeconfig.dev.json
+C:\Projects\csProjects\howtobuild\bin\Debug\netcoreapp3.1\howtobuild.dll
+C:\Projects\csProjects\howtobuild\bin\Debug\netcoreapp3.1\howtobuild.pdb
+C:\Projects\csProjects\howtobuild\obj\Debug\netcoreapp3.1\howtobuild.csprojAssemblyReference.cache
+C:\Projects\csProjects\howtobuild\obj\Debug\netcoreapp3.1\howtobuild.AssemblyInfoInputs.cache
+C:\Projects\csProjects\howtobuild\obj\Debug\netcoreapp3.1\howtobuild.AssemblyInfo.cs
+C:\Projects\csProjects\howtobuild\obj\Debug\netcoreapp3.1\howtobuild.dll
+C:\Projects\csProjects\howtobuild\obj\Debug\netcoreapp3.1\howtobuild.pdb
