@@ -7,7 +7,7 @@ namespace Functions
         static void Main(string[] args)
         {
             string iput = "";
-            Console.WriteLine("Im testing functions");
+            Console.WriteLine("Im testing functions\n");
             iput = Console.ReadLine();
             if(iput.Length == 0){
                noInput(); 
