@@ -1,0 +1,4 @@
+commands:
+dotnet run 		- run program
+dotnet run -- parameters
+dotnet new console	- console program
