@@ -1,0 +1,11 @@
+C:\Projects\csProjects\ExerciseProjects\car\bin\Debug\netcoreapp3.1\car.exe
+C:\Projects\csProjects\ExerciseProjects\car\bin\Debug\netcoreapp3.1\car.deps.json
+C:\Projects\csProjects\ExerciseProjects\car\bin\Debug\netcoreapp3.1\car.runtimeconfig.json
+C:\Projects\csProjects\ExerciseProjects\car\bin\Debug\netcoreapp3.1\car.runtimeconfig.dev.json
+C:\Projects\csProjects\ExerciseProjects\car\bin\Debug\netcoreapp3.1\car.dll
+C:\Projects\csProjects\ExerciseProjects\car\bin\Debug\netcoreapp3.1\car.pdb
+C:\Projects\csProjects\ExerciseProjects\car\obj\Debug\netcoreapp3.1\car.csprojAssemblyReference.cache
+C:\Projects\csProjects\ExerciseProjects\car\obj\Debug\netcoreapp3.1\car.AssemblyInfoInputs.cache
+C:\Projects\csProjects\ExerciseProjects\car\obj\Debug\netcoreapp3.1\car.AssemblyInfo.cs
+C:\Projects\csProjects\ExerciseProjects\car\obj\Debug\netcoreapp3.1\car.dll
+C:\Projects\csProjects\ExerciseProjects\car\obj\Debug\netcoreapp3.1\car.pdb
