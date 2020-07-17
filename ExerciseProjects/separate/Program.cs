@@ -36,7 +36,7 @@ namespace separate
                 output.Add(input);
             }
             else if (input.Contains(sep)){
-                what = input.Split(sep);
+                what = input.Split(sep); //Great method. Makes this program useless but does exactly what I want
                 
                 for(int i = 0; i <  what.Length; i++){
                     if(what[i] != ""){
