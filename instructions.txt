@@ -1,4 +1,7 @@
 commands:
-dotnet run 		- run program
+dotnet run 			- run program
 dotnet run -- parameters
-dotnet new console	- console program
+dotnet new console		- console program
+
+config:
+"console": "externalTerminal"	- debugs in cmd
