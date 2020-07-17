@@ -3,5 +3,11 @@ dotnet run 			- run program
 dotnet run -- parameters
 dotnet new console		- console program
 
+
 config:
+-launch.json:			- create from debug window
+"program": ""${workspaceFolder}/bin/Debug/netcoreapp3.1/<project_name>.dll"	- right program
 "console": "externalTerminal"	- debugs in cmd
+
+-tasks.json			- create from debuf window after launch.json
+.Net version 
