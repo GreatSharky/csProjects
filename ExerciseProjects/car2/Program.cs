@@ -4,11 +4,19 @@ namespace car2
 {
     class Program
     {
-        public class Vehicle
+        public abstract class Vehicle
         {
             public string Make {get;}
             public string Model {get;}
             public int Year {get;}
+
+            enum Types 
+            {
+                car,
+                bike,
+                submarine,
+                plane
+            }
 
             public Vehicle(string make, string model, int year)
             {
@@ -23,10 +31,6 @@ namespace car2
             }
         }
 
-        public class Car
-        {
-            
-        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
