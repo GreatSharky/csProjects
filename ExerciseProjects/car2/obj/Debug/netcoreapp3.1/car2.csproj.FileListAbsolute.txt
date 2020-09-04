@@ -11,3 +11,14 @@ C:\Users\Aaro\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\
 C:\Users\Aaro\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.dll
 C:\Users\Aaro\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.pdb
 C:\Users\Aaro\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.genruntimeconfig.cache
+C:\Projects\csProjects\ExerciseProjects\car2\bin\Debug\netcoreapp3.1\car2.exe
+C:\Projects\csProjects\ExerciseProjects\car2\bin\Debug\netcoreapp3.1\car2.deps.json
+C:\Projects\csProjects\ExerciseProjects\car2\bin\Debug\netcoreapp3.1\car2.runtimeconfig.json
+C:\Projects\csProjects\ExerciseProjects\car2\bin\Debug\netcoreapp3.1\car2.runtimeconfig.dev.json
+C:\Projects\csProjects\ExerciseProjects\car2\bin\Debug\netcoreapp3.1\car2.dll
+C:\Projects\csProjects\ExerciseProjects\car2\bin\Debug\netcoreapp3.1\car2.pdb
+C:\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.csprojAssemblyReference.cache
+C:\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.AssemblyInfoInputs.cache
+C:\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.AssemblyInfo.cs
+C:\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.dll
+C:\Projects\csProjects\ExerciseProjects\car2\obj\Debug\netcoreapp3.1\car2.pdb
