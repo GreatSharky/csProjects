@@ -34,30 +34,57 @@ namespace car2
         {
             public int TankSize;
             
-            public int Usage;
-            public int Odometer;
+            public double Usage;
+            public double Odometer;
 
             public Car(string make, string model, int year, int tank_size, int usage) : base(make, model, year)
             {
                 TankSize = tank_size;
-                Usage = TankSize;
+                Usage = usage/100;
                 Odometer = 0;
             }
 
-            public void drive(float distance)
+            
+            
+            public void drive(double distance)
             {
-                place_ =+ distance;
+                if(distance * Usage > gasLeft_){
+                    distance = gasLeft_/Usage;
+                    gasLeft_ = 0;
+                }
+                else{
+                    gasLeft_ -= Usage*distance;
+                }
+                Odometer += distance;
+                place_ += distance;
+            }
+
+            
+            
+            public void fill(double extra_gas)
+            {
+                if(gasLeft_ + extra_gas > TankSize){
+                    gasLeft_ = TankSize;
+                }
+                else if(gasLeft_ + extra_gas < 0){
+                    gasLeft_ = 0;
+                }
+                else{
+                    gasLeft_ += extra_gas;
+                } 
             }
 
             // Private parts ;)
-            private float place_ = 0;
-            private float gasLeft_ = 0;
+            private double place_ = 0;
+            private double gasLeft_ = 50;
 
         }
 
         static void Main(string[] args)
         {
             Car audi = new Car("Audi", "A6", 20, 70, 7);
+            audi.drive(12);
+            audi.drive(90);
             Console.WriteLine(audi);
             Console.ReadLine();
         }
