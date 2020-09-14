@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 namespace car2
 {
     class Program
@@ -11,6 +13,7 @@ namespace car2
                 submarine,
                 plane
             }
+
         public abstract class Vehicle
         {
             public string Make {get;}
@@ -37,14 +40,13 @@ namespace car2
             public double Usage;
             public double Odometer;
 
-            public Car(string make, string model, int year, int tank_size, int usage) : base(make, model, year)
+            public Car(string make, string model, int year, int tank_size, double usage) : base(make, model, year)
             {
                 TankSize = tank_size;
                 Usage = usage/100;
                 Odometer = 0;
             }
 
-            
             
             public void drive(double distance)
             {
@@ -59,7 +61,6 @@ namespace car2
                 place_ += distance;
             }
 
-            
             
             public void fill(double extra_gas)
             {
@@ -80,12 +81,58 @@ namespace car2
 
         }
 
+
+        public class Chopper : Vehicle
+        {
+            public int TankSize;
+            public double Usage;
+            public double Odometer;
+
+            public Chopper(string make, string model, int year, int tank_size, double usage) : base(make, model, year)
+            {
+                TankSize = tank_size;
+                Usage = usage/100;
+                Odometer = 0;
+                gasLeft_ = TankSize;
+            }
+
+            public bool fly(double distance, double altitude)
+            {
+                double travel = hypotenusa(distance,altitude);
+                if(gasLeft_ < travel){
+                    place_ = 0;
+                    altitude_ = 0;
+                    Odometer = 0;
+                    return false;
+                }
+                else{
+                    place_ += distance;
+                    altitude_ += altitude;
+                    Odometer += travel;
+                    gasLeft_ -= travel;
+                    return true;
+                }
+            }
+
+            // Private parts :)
+            private double hypotenusa(double x, double y)
+            {
+                return Math.Sqrt(x*x+y*y);
+            }
+
+            private double place_;
+            private double altitude_;
+            private double gasLeft_;
+        }
+
         static void Main(string[] args)
         {
             Car audi = new Car("Audi", "A6", 20, 70, 7);
             audi.drive(12);
             audi.drive(90);
             Console.WriteLine(audi);
+            Chopper bird = new Chopper("US army", "flybird", 2000, 50, 7);
+            bird.fly(10, 10);
             Console.ReadLine();
         }
     }
